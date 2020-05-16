@@ -3,6 +3,7 @@
 # Edit at https://www.gitignore.io/?templates=linux,windows,eclipse,intellij,netbeans,intellij+all
 
 target/
+Saves/
 ### Eclipse ###
 .metadata
 bin/

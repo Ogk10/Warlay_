@@ -1,0 +1,4441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framemods>     
+    <framemod name="Empty Slot">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>0</maxrank>
+    </framemod>
+       
+    <framemod name="Abating Link">
+        <slot>normal</slot>
+        <augment>Trinity</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Afterburn">
+        <slot>normal</slot>
+        <augment>Chroma</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+        
+    <framemod name="Agility Drift">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>    
+    
+    <framemod name="Arcane Acceleration">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>     
+    
+    <framemod name="Arcane Aegis">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>      
+    
+    <framemod name="Arcane Agility">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>     
+    
+    <framemod name="Arcane Arachne">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>     
+    
+    <framemod name="Arcane Avenger">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>     
+    
+    <framemod name="Arcane Awakening">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>     
+    
+    <framemod name="Arcane Barrier">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>     
+    
+    <framemod name="Arcane Consequence">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>     
+    
+    <framemod name="Arcane Deflection">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>     
+    
+    <framemod name="Arcane Energize">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>      
+    
+    <framemod name="Arcane Eruption">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>      
+    
+    <framemod name="Arcane Fury">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>      
+    
+    <framemod name="Arcane Grace">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>      
+    
+    <framemod name="Arcane Guardian">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>      
+    
+    <framemod name="Arcane Healing">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod> 
+    
+    <framemod name="Arcane Ice">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>  
+    
+    <framemod name="Arcane Momentum">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>  
+    
+    <framemod name="Arcane Nulifier">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>     
+    
+    <framemod name="Arcane Phantasm">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>      
+    
+    <framemod name="Arcane Precision">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>      
+    
+    <framemod name="Arcane Pulse">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>      
+    
+    <framemod name="Arcane Rage">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>      
+    
+    <framemod name="Arcane Resistance">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>      
+    
+    <framemod name="Arcane Strike">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>  
+    
+    <framemod name="Arcane Tempo">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>  
+    
+    <framemod name="Arcane Trickery">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>  
+    
+    <framemod name="Arcane Ultimatum">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>  
+    
+    <framemod name="Arcane Velocity">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>  
+    
+    <framemod name="Arcane Victory">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>  
+    
+    <framemod name="Arcane Warmth">
+        <slot>arcane</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>0</basecost>
+        <maxrank>4</maxrank>
+    </framemod>
+    
+    <framemod name="Armored Agility">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>false</misc>
+        <armor>7.5</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Armored Recovery">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Antimatter Absorb">
+        <slot>normal</slot>
+        <augment>Nova</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Antimatter Mine">
+        <slot>normal</slot>
+        <augment>Nova</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Antitoxin">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Assimilate">
+        <slot>normal</slot>
+        <augment>Nyx</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Augur Accord">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>30.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Augur Message">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>4.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Augur Reach">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>5.0</range>
+        <strength>0.0</strength>
+        <basecost>2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Augur Secrets">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>4.0</strength>
+        <basecost>2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Aviator">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Ballistic Bullseye">
+        <slot>normal</slot>
+        <augment>Mesa</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Battering Maneuver">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Beguiling Lantern">
+        <slot>normal</slot>
+        <augment>Titania</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Blind Rage">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>false</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>-5.0</efficiency>
+        <range>0.0</range>
+        <strength>9.0</strength>
+        <basecost>6</basecost>
+        <maxrank>10</maxrank>
+    </framemod>
+    
+    <framemod name="Brief Respite">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Calm &amp; Frenzy">
+        <slot>normal</slot>
+        <augment>Equinox</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Capacitance">
+        <slot>normal</slot>
+        <augment>Volt</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>  
+    
+    <framemod name="Cataclysmic Continuum">
+        <slot>normal</slot>
+        <augment>Limbo</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Chaos Sphere">
+        <slot>normal</slot>
+        <augment>Nyx</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Chilling Globe">
+        <slot>normal</slot>
+        <augment>Frost</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Chromatic Blade">
+        <slot>normal</slot>
+        <augment>Excalibur</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Coaction Drift">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Concentrated Arrow">
+        <slot>normal</slot>
+        <augment>Ivara</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Constitution">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>false</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>7.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>10</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Contagion Cloud">
+        <slot>normal</slot>
+        <augment>Saryn</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Continuity">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>false</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>5.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Corroding Barrage">
+        <slot>normal</slot>
+        <augment>Hydroid</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Corrosive Projection">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Counter Pulse">
+        <slot>normal</slot>
+        <augment>Mag</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Creeping Terrify">
+        <slot>normal</slot>
+        <augment>Nekros</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Cunning Drift">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>false</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>2.5</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Curative Undertow">
+        <slot>normal</slot>
+        <augment>Hydroid</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Dead Eye">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Deceptive Bond">
+        <slot>normal</slot>
+        <augment>Loki</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Defiled Reckoning">
+        <slot>normal</slot>
+        <augment>Oberon</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Despoil">
+        <slot>normal</slot>
+        <augment>Nekros</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Diamond Skin">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Discharge Strike">
+        <slot>normal</slot>
+        <augment>Nekros</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Divebomb Vortex">
+        <slot>normal</slot>
+        <augment>Zephyr</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Duality">
+        <slot>normal</slot>
+        <augment>Equinox</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Elemental Sandstorm">
+        <slot>normal</slot>
+        <augment>Inaros</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="EMP Aura">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Empowered Blades">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Endurance Drift">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Zenurik</polarity>
+        <misc>false</misc>
+        <armor>0.0</armor>
+        <energy>2.5</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Enemy Radar">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Enemy Sense">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Energy Siphon">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Energy Transfer">
+        <slot>normal</slot>
+        <augment>Equinox</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Equilibrium">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>10</maxrank>
+    </framemod>
+    
+    <framemod name="Escape Velocity">
+        <slot>exilus</slot>
+        <augment>Nova</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Eternal War">
+        <slot>normal</slot>
+        <augment>Valkyr</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Everlasting Ward">
+        <slot>normal</slot>
+        <augment>Chroma</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Explosive Legerdemain">
+        <slot>normal</slot>
+        <augment>Mirage</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Fast Deflection">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Fatal Teleport">
+        <slot>normal</slot>
+        <augment>Ash</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Fireball Frenzy">
+        <slot>normal</slot>
+        <augment>Ember</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Fire Fright">
+        <slot>normal</slot>
+        <augment>Ember</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Firequake">
+        <slot>normal</slot>
+        <augment>Ember</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Firewalker">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>2</basecost>
+        <maxrank>10</maxrank>
+    </framemod>
+
+    
+    <framemod name="Flame Repellent">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Flash Accelerant">
+        <slot>normal</slot>
+        <augment>Ember</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Fleeting Expertise">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>false</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>-10.0</duration>
+        <efficiency>10.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Flow">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>false</misc>
+        <armor>0.0</armor>
+        <energy>25.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Fortitude">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Fracturing Crush">
+        <slot>normal</slot>
+        <augment>Mag</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Freeze Force">
+        <slot>normal</slot>
+        <augment>Frost</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Funnel Clouds">
+        <slot>normal</slot>
+        <augment>Zephyr</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Furious Javelin">
+        <slot>normal</slot>
+        <augment>Excalibur</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Gladiator Aegis">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>7.5</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Gladiator Finesse">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Gladiator Resolve">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>30.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Greedy Pull">
+        <slot>normal</slot>
+        <augment>Mag</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Growing Power">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Guided Effigy">
+        <slot>normal</slot>
+        <augment>Chroma</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Hall of Malevolence">
+        <slot>normal</slot>
+        <augment>Mirage</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>    
+    
+    <framemod name="Hallowed Eruption">
+        <slot>normal</slot>
+        <augment>Oberon</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Hallowed Reckoning">
+        <slot>normal</slot>
+        <augment>Oberon</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Handspring">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Haven">
+        <slot>normal</slot>
+        <augment>Limbo</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Heavy Impact">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Hunter Adrenaline">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Hushed Invisibility">
+        <slot>normal</slot>
+        <augment>Loki</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Hysterical Assault">
+        <slot>exilus</slot>
+        <augment>Valkyr</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Hysterical Fixation">
+        <slot>exilus</slot>
+        <augment>Valkyr</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Ice Spring">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>2</basecost>
+        <maxrank>10</maxrank>
+    </framemod>
+    
+    <framemod name="Ice Wave Impedance">
+        <slot>normal</slot>
+        <augment>Frost</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Icy Avalanche">
+        <slot>normal</slot>
+        <augment>Frost</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Infested Impedance">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Infiltrate">
+        <slot>normal</slot>
+        <augment>Ivara</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Insulation">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Intensify">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>false</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>5.0</strength>
+        <basecost>6</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Intruder">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Ironclad Charge">
+        <slot>normal</slot>
+        <augment>Rhino</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Iron Shrapnel">
+        <slot>normal</slot>
+        <augment>Rhino</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Iron Vault">
+        <slot>normal</slot>
+        <augment>Wukong</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Irradiating Disarm">
+        <slot>normal</slot>
+        <augment>Loki</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Jet Stream">
+        <slot>normal</slot>
+        <augment>Zephyr</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>  
+    
+    <framemod name="Kinetic Collision">
+        <slot>normal</slot>
+        <augment>Volt</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>    
+    
+    <framemod name="Larva Burst">
+        <slot>normal</slot>
+        <augment>Nidus</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Lasting Covenant">
+        <slot>normal</slot>
+        <augment>Harrow</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Lightning Dash">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>2</basecost>
+        <maxrank>10</maxrank>
+    </framemod>
+    
+    <framemod name="Lightning Rod">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Loot Detector">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Maglev">
+        <slot>exlius</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Magnetized Discharge">
+        <slot>normal</slot>
+        <augment>Mag</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Master Thief">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>10</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Mesa's Waltz">
+        <slot>exilus</slot>
+        <augment>Mesa</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Mind Freak">
+        <slot>normal</slot>
+        <augment>Nyx</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Mobilize">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>2</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Muzzle Flash">
+        <slot>normal</slot>
+        <augment>Mesa</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Narrow Minded">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>false</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>9.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>-6.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>10</maxrank>
+    </framemod>
+    
+    <framemod name="Natural Talent">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Negation Swarm">
+        <slot>normal</slot>
+        <augment>Inaros</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Neutron Star">
+        <slot>normal</slot>
+        <augment>Nova</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Ore Gaze">
+        <slot>normal</slot>
+        <augment>Atlas</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Overextended">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>false</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>15.0</range>
+        <strength>-10.0</strength>
+        <basecost>6</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Pacifying Bolts">
+        <slot>normal</slot>
+        <augment>Nyx</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Pain Threshold">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Patagium">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Path of Statues">
+        <slot>normal</slot>
+        <augment>Atlas</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Peaceful Provocation">
+        <slot>normal</slot>
+        <augment>Equinox</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Perpetual Vortex">
+        <slot>normal</slot>
+        <augment>Vauban</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>    
+    
+    <framemod name="Phoenix Renewal">
+        <slot>normal</slot>
+        <augment>Oberon</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Physique">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>3.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Piercing Navigator">
+        <slot>normal</slot>
+        <augment>Ivara</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Piercing Roar">
+        <slot>normal</slot>
+        <augment>Rhino</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Piercing Step">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Pilfering Swarm">
+        <slot>normal</slot>
+        <augment>Hydroid</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Pistol Amp">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Pistol Scavenger">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Primal Rage">
+        <slot>normal</slot>
+        <augment>Wukong</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Primed Continuity">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>false</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>5.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>10</maxrank>
+    </framemod>
+    
+    <framemod name="Primed Flow">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>false</misc>
+        <armor>0.0</armor>
+        <energy>25.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>10</maxrank>
+    </framemod>
+    
+    <framemod name="Primed Vigor">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>false</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>20.0</health>
+        <shield>20.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>10</maxrank>
+    </framemod>
+    
+    <framemod name="Prism Guard">
+        <slot>normal</slot>
+        <augment>Mirage</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Prolonged Paralysis">
+        <slot>normal</slot>
+        <augment>Valkyr</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Provoked">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>10</maxrank>
+    </framemod>
+    
+    <framemod name="Pool of Life">
+        <slot>normal</slot>
+        <augment>Trinity</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Power Drift">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Zenurik</polarity>
+        <misc>false</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>2.5</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Power of Three">
+        <slot>normal</slot>
+        <augment>Ivara</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Purging Slash">
+        <slot>normal</slot>
+        <augment>Excalibur</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Purifying Flames">
+        <slot>normal</slot>
+        <augment>Ember</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Push &amp; Pull">
+        <slot>normal</slot>
+        <augment>Equinox</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Pyroclastic Flow">
+        <slot>normal</slot>
+        <augment>Nezha</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Quick Thinking">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>10</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Radiant Finish">
+        <slot>normal</slot>
+        <augment>Excalibur</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Rage">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Rapid Resilience">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Razorwing Blitz">
+        <slot>normal</slot>
+        <augment>Titania</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod> 
+    
+    <framemod name="Reaping Chakram">
+        <slot>normal</slot>
+        <augment>Nezha</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>  
+    
+    <framemod name="Recharge Barrier">
+        <slot>normal</slot>
+        <augment>Volt</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>  
+    
+    <framemod name="Redirection">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>false</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>40.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>10</maxrank>
+    </framemod>
+    
+    <framemod name="Reflection">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Reflex Guard">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>10</maxrank>
+    </framemod>
+    
+    <framemod name="Regenerative Molt">
+        <slot>normal</slot>
+        <augment>Saryn</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Reinforcing Stomp">
+        <slot>normal</slot>
+        <augment>Rhino</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Rejuvenation">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Rending Turn">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Repelling Bastille">
+        <slot>normal</slot>
+        <augment>Vauban</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Resonance">
+        <slot>normal</slot>
+        <augment>Banshee</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Resonating Quake">
+        <slot>normal</slot>
+        <augment>Banshee</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Retribution">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Rifle Amp">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Rifle Scavenger">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Rift Torrent">
+        <slot>normal</slot>
+        <augment>Limbo</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Rime Vault">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>1</basecost>
+        <maxrank>0</maxrank>
+    </framemod>
+    
+    <framemod name="Rising Storm">
+        <slot>normal</slot>
+        <augment>Ash</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Rumbled">
+        <slot>normal</slot>
+        <augment>Atlas</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Rush">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>5</maxrank>
+    </framemod>    
+    
+    <framemod name="Safeguard">
+        <slot>normal</slot>
+        <augment>Nezha</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Safeguard Switch">
+        <slot>normal</slot>
+        <augment>Loki</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Sapping Reach">
+        <slot>normal</slot>
+        <augment>Mag</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Savage Silence">
+        <slot>normal</slot>
+        <augment>Banshee</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Savior Decoy">
+        <slot>normal</slot>
+        <augment>Loki</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Searing Leap">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>1</basecost>
+        <maxrank>0</maxrank>
+    </framemod>
+    
+    <framemod name="Seeking Shuriken">
+        <slot>normal</slot>
+        <augment>Ash</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Signal Flare">
+        <slot>normal</slot>
+        <augment>Excalibur</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Singularity">
+        <slot>normal</slot>
+        <augment>Nyx</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Smite Infusion">
+        <slot>normal</slot>
+        <augment>Oberon</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Smoke Shadow">
+        <slot>normal</slot>
+        <augment>Ash</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Shield Disruption">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Shield of Shadows">
+        <slot>normal</slot>
+        <augment>Nekros</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Shield Overload">
+        <slot>normal</slot>
+        <augment>Mag</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Shock Absorbers">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Shocking Speed">
+        <slot>normal</slot>
+        <augment>Volt</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>  
+    
+    <framemod name="Shock Trooper">
+        <slot>normal</slot>
+        <augment>Volt</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>    
+    
+    <framemod name="Shotgun Amp">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Shotgun Scavenger">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Sniper Scavenger">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Sonic Fracture">
+        <slot>normal</slot>
+        <augment>Banshee</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Soul Survivor">
+        <slot>normal</slot>
+        <augment>Nekros</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Speed Holster">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Speed Drift">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Sprint Boost">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Staggering Shield">
+        <slot>normal</slot>
+        <augment>Mesa</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Stand United">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>4.25</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Stealth Drift">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Steel Charge">
+        <slot>aura</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>-4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Steel Fiber">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>false</misc>
+        <armor>10.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>10</maxrank>
+    </framemod>
+    
+    <framemod name="Streamline">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>false</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>5.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Streamlined Form">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Stretch">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>false</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>7.5</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Sure Footed">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Surging Dash">
+        <slot>normal</slot>
+        <augment>Excalibur</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Swing Line">
+        <slot>normal</slot>
+        <augment>Valkyr</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Tectonic Fracture">
+        <slot>normal</slot>
+        <augment>Atlas</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Tesla Link">
+        <slot>normal</slot>
+        <augment>Vauban</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Thief's Wit">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Tidal Impunity">
+        <slot>normal</slot>
+        <augment>Hydroid</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Titanic Rumbler">
+        <slot>normal</slot>
+        <augment>Atlas</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Total Eclipse">
+        <slot>normal</slot>
+        <augment>Mirage</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Toxic Flight">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>2</basecost>
+        <maxrank>10</maxrank>
+    </framemod>
+    
+    <framemod name="Transient Fortitude">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>false</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>-2.5</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>5.0</strength>
+        <basecost>6</basecost>
+        <maxrank>10</maxrank>
+    </framemod>
+    
+    <framemod name="Transistor Shield">
+        <slot>normal</slot>
+        <augment>Volt</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>  
+    
+    <framemod name="Undying Will">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>2</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Vampire Leech">
+        <slot>normal</slot>
+        <augment>Trinity</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Venom Dose">
+        <slot>normal</slot>
+        <augment>Saryn</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Venomous Rise">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>1</basecost>
+        <maxrank>0</maxrank>
+    </framemod>
+    
+    <framemod name="Vexing Retaliation">
+        <slot>normal</slot>
+        <augment>Chroma</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Vigilante Pursuit">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Naramon</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Vigilante Vigor">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>4</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Vigor">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>false</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>20.0</health>
+        <shield>20.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>5</maxrank>
+    </framemod>
+    
+    <framemod name="Vitality">
+        <slot>normal</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>false</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>40.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>2</basecost>
+        <maxrank>10</maxrank>
+    </framemod>
+    
+    <framemod name="Voltaic Lance">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Madurai</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>1</basecost>
+        <maxrank>0</maxrank>
+    </framemod>
+    
+    <framemod name="Ward Recovery">
+        <slot>normal</slot>
+        <augment>Nezha</augment>
+        <polarity>Zenurik</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+    
+    <framemod name="Warm Coat">
+        <slot>exilus</slot>
+        <augment>no</augment>
+        <polarity>Vazarin</polarity>
+        <misc>true</misc>
+        <armor>0.0</armor>
+        <energy>0.0</energy>
+        <health>0.0</health>
+        <shield>0.0</shield>
+        <duration>0.0</duration>
+        <efficiency>0.0</efficiency>
+        <range>0.0</range>
+        <strength>0.0</strength>
+        <basecost>6</basecost>
+        <maxrank>3</maxrank>
+    </framemod>
+</framemods>

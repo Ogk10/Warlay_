@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Text?>
+<?import java.util.ArrayList?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.warlay.controller.EditWarframeController">
+   <children>
+      <GridPane hgap="5.0" layoutX="230.0" layoutY="70.0" prefHeight="270.0" prefWidth="760.0" vgap="5.0">
+        <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+        <children>
+             <fx:define>
+                <ArrayList fx:id="mod">
+                    <ComboBox fx:id="mod0" onAction="#modAction" prefWidth="150.0" GridPane.columnIndex="1" promptText="Aura mods"/>
+                    <ComboBox fx:id="mod1" onAction="#modAction" prefWidth="150.0" GridPane.columnIndex="2" promptText="Exilus mods"/>
+                    <ComboBox fx:id="mod2" onAction="#modAction" prefWidth="150.0" GridPane.rowIndex="2" promptText="Mods"/>
+                    <ComboBox fx:id="mod3" onAction="#modAction" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="2" promptText="Mods"/>
+                    <ComboBox fx:id="mod4" onAction="#modAction" prefWidth="150.0" GridPane.columnIndex="2" GridPane.rowIndex="2" promptText="Mods"/>
+                    <ComboBox fx:id="mod5" onAction="#modAction" prefWidth="150.0" GridPane.columnIndex="3" GridPane.rowIndex="2" promptText="Mods"/>
+                    <ComboBox fx:id="mod6" onAction="#modAction" prefWidth="150.0" GridPane.rowIndex="4" promptText="Mods"/>
+                    <ComboBox fx:id="mod7" onAction="#modAction" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="4" promptText="Mods"/>
+                    <ComboBox fx:id="mod8" onAction="#modAction" prefWidth="150.0" GridPane.columnIndex="2" GridPane.rowIndex="4" promptText="Mods"/>
+                    <ComboBox fx:id="mod9" onAction="#modAction" prefWidth="150.0" GridPane.columnIndex="3" GridPane.rowIndex="4" promptText="Mods"/>
+                    <ComboBox fx:id="mod10" onAction="#modAction" prefWidth="150.0" GridPane.columnIndex="4" GridPane.rowIndex="2" promptText="Arcanes">
+                        <GridPane.margin>
+                            <Insets left="15.0" />
+                        </GridPane.margin>
+                    </ComboBox>
+                    <ComboBox fx:id="mod11" onAction="#modAction" prefWidth="150.0" GridPane.columnIndex="4" GridPane.rowIndex="4" promptText="Arcanes">
+                        <GridPane.margin>
+                            <Insets left="15.0" />
+                        </GridPane.margin>
+                    </ComboBox>
+                </ArrayList>
+            </fx:define>
+            <fx:define>
+                <ArrayList fx:id="modRank">
+                    <ComboBox fx:id="mod0Rank" onAction="#modRankAction" prefWidth="100.0" GridPane.columnIndex="1" GridPane.rowIndex="1" promptText="Rank">
+                       <GridPane.margin>
+                          <Insets left="25.0" />
+                       </GridPane.margin>
+                    </ComboBox>
+                    <ComboBox fx:id="mod1Rank" onAction="#modRankAction" prefWidth="100.0" GridPane.columnIndex="2" GridPane.rowIndex="1" promptText="Rank">
+                       <GridPane.margin>
+                          <Insets left="25.0" />
+                       </GridPane.margin>
+                    </ComboBox>
+                    <ComboBox fx:id="mod2Rank" onAction="#modRankAction" prefWidth="100.0" GridPane.rowIndex="3" promptText="Rank">
+                       <GridPane.margin>
+                          <Insets left="25.0" />
+                       </GridPane.margin>
+                    </ComboBox>
+                    <ComboBox fx:id="mod3Rank" onAction="#modRankAction" prefWidth="100.0" GridPane.columnIndex="1" GridPane.rowIndex="3" promptText="Rank">
+                       <GridPane.margin>
+                          <Insets left="25.0" />
+                       </GridPane.margin>
+                    </ComboBox>
+                    <ComboBox fx:id="mod4Rank" onAction="#modRankAction" prefWidth="100.0" GridPane.columnIndex="2" GridPane.rowIndex="3" promptText="Rank">
+                       <GridPane.margin>
+                          <Insets left="25.0" />
+                       </GridPane.margin>
+                    </ComboBox>
+                    <ComboBox fx:id="mod5Rank" onAction="#modRankAction" prefWidth="100.0" GridPane.columnIndex="3" GridPane.rowIndex="3" promptText="Rank">
+                       <GridPane.margin>
+                          <Insets left="25.0" />
+                       </GridPane.margin>
+                    </ComboBox>
+                    <ComboBox fx:id="mod6Rank" onAction="#modRankAction" prefWidth="100.0" GridPane.rowIndex="5" promptText="Rank">
+                       <GridPane.margin>
+                          <Insets left="25.0" />
+                       </GridPane.margin>
+                    </ComboBox>
+                    <ComboBox fx:id="mod7Rank" onAction="#modRankAction" prefWidth="100.0" GridPane.columnIndex="1" GridPane.rowIndex="5" promptText="Rank">
+                       <GridPane.margin>
+                          <Insets left="25.0" />
+                       </GridPane.margin>
+                    </ComboBox>
+                    <ComboBox fx:id="mod8Rank" onAction="#modRankAction" prefWidth="100.0" GridPane.columnIndex="2" GridPane.rowIndex="5" promptText="Rank">
+                       <GridPane.margin>
+                          <Insets left="25.0" />
+                       </GridPane.margin>
+                    </ComboBox>
+                    <ComboBox fx:id="mod9Rank" onAction="#modRankAction" prefWidth="100.0" GridPane.columnIndex="3" GridPane.rowIndex="5" promptText="Rank">
+                       <GridPane.margin>
+                          <Insets left="25.0" />
+                       </GridPane.margin>
+                    </ComboBox>       
+                    <ComboBox fx:id="mod10Rank" onAction="#modRankAction" prefWidth="100.0" GridPane.columnIndex="4" GridPane.rowIndex="3" promptText="Rank">
+                        <GridPane.margin>
+                            <Insets left="45.0" />
+                    </GridPane.margin>
+                    </ComboBox>
+                    <ComboBox fx:id="mod11Rank" onAction="#modRankAction" prefWidth="100.0" GridPane.columnIndex="4" GridPane.rowIndex="5" promptText="Rank">
+                        <GridPane.margin>
+                            <Insets left="45.0" />
+                        </GridPane.margin>
+                    </ComboBox>  
+                </ArrayList>
+            </fx:define>          
+            <fx:reference source="mod0"/>
+            <fx:reference source="mod1"/>
+            <fx:reference source="mod2"/>
+            <fx:reference source="mod3"/>
+            <fx:reference source="mod4"/>
+            <fx:reference source="mod5"/>
+            <fx:reference source="mod6"/>
+            <fx:reference source="mod7"/>
+            <fx:reference source="mod8"/>
+            <fx:reference source="mod9"/>
+            <fx:reference source="mod10"/>
+            <fx:reference source="mod11"/>
+            <fx:reference source="mod0Rank"/>
+            <fx:reference source="mod1Rank"/>
+            <fx:reference source="mod2Rank"/>
+            <fx:reference source="mod3Rank"/>
+            <fx:reference source="mod4Rank"/>
+            <fx:reference source="mod5Rank"/>
+            <fx:reference source="mod6Rank"/>
+            <fx:reference source="mod7Rank"/>
+            <fx:reference source="mod8Rank"/>
+            <fx:reference source="mod9Rank"/>  
+            <fx:reference source="mod10Rank"/>
+            <fx:reference source="mod11Rank"/> 
+         </children>
+      </GridPane>
+      <ComboBox fx:id="warframe" layoutX="105.0" layoutY="13.0" onAction="#warframeAction" prefWidth="170.0" promptText="Warframes"/>
+      <Text layoutX="18.0" layoutY="35.0" strokeType="OUTSIDE" strokeWidth="0.0" text="WARFRAME" />
+      <GridPane layoutX="20.0" layoutY="100.0" prefHeight="200.0" prefWidth="170.0">
+        <columnConstraints>
+          <ColumnConstraints halignment="LEFT" hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints halignment="RIGHT" hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="25.0" valignment="TOP" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="25.0" valignment="TOP" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="25.0" valignment="TOP" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="25.0" valignment="TOP" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="25.0" valignment="BOTTOM" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="25.0" valignment="BOTTOM" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="25.0" valignment="BOTTOM" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="25.0" valignment="BOTTOM" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="ARMOR" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="ENERGY" GridPane.rowIndex="1" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="HEALTH" GridPane.rowIndex="2" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="SHIELD" GridPane.rowIndex="3" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="DURATION" GridPane.rowIndex="4" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="EFFICIENCY" GridPane.rowIndex="5" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="RANGE" GridPane.rowIndex="6" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="STRENGTH" GridPane.rowIndex="7" />
+            <Text fx:id="armor" strokeType="OUTSIDE" strokeWidth="0.0" GridPane.columnIndex="1" />
+            <Text fx:id="energy" strokeType="OUTSIDE" strokeWidth="0.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <Text fx:id="health" strokeType="OUTSIDE" strokeWidth="0.0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+            <Text fx:id="shield" strokeType="OUTSIDE" strokeWidth="0.0" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+            <Text fx:id="duration" strokeType="OUTSIDE" strokeWidth="0.0" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+            <Text fx:id="efficiency" strokeType="OUTSIDE" strokeWidth="0.0" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+            <Text fx:id="range" strokeType="OUTSIDE" strokeWidth="0.0" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+            <Text fx:id="strength" strokeType="OUTSIDE" strokeWidth="0.0" GridPane.columnIndex="1" GridPane.rowIndex="7" />
+         </children>
+      </GridPane>
+      <ComboBox fx:id="name" layoutX="456.0" layoutY="13.0" maxWidth="120.0" minWidth="120.0" onAction="#nameAction" prefWidth="120.0" promptText="Select"/>
+      <Text layoutX="402.0" layoutY="35.0" strokeType="OUTSIDE" strokeWidth="0.0" text="NAME" />
+      <Button layoutX="360.0" layoutY="353.0" mnemonicParsing="false" onAction="#saveAction" text="Save" />
+      <Button layoutX="490.0" layoutY="353.0" mnemonicParsing="false" onAction="#cancelAction" text="Cancel" />
+      <Button layoutX="620.0" layoutY="353.0" mnemonicParsing="false" onAction="#deleteAction" text="Delete" />
+      <Text fx:id="message" layoutX="82.0" layoutY="367.0" strokeType="OUTSIDE" strokeWidth="0.0" />
+      <Button layoutX="750.0" layoutY="353.0" mnemonicParsing="false" onAction="#saveAsAction" text="Save as" />
+      <TextField fx:id="saveName" layoutX="830.0" layoutY="350.0" maxWidth="120.0" minWidth="120.0" promptText="Name"/>
+   </children>
+</AnchorPane>

@@ -2,6 +2,7 @@
 # Created by https://www.gitignore.io/api/linux,windows,eclipse,intellij,netbeans,intellij+all
 # Edit at https://www.gitignore.io/?templates=linux,windows,eclipse,intellij,netbeans,intellij+all
 
+target/
 ### Eclipse ###
 .metadata
 bin/

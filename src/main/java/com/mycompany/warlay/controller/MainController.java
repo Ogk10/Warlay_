@@ -2,10 +2,6 @@ package com.mycompany.warlay.controller;
 
 import com.mycompany.warlay.model.FrameBuild;
 import com.mycompany.warlay.model.FrameBuilds;
-
-import java.io.IOException;
-import java.net.URL;
-import java.util.ResourceBundle;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -17,6 +13,10 @@ import javafx.scene.control.Spinner;
 import javafx.scene.control.SpinnerValueFactory;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
+
+import java.io.IOException;
+import java.net.URL;
+import java.util.ResourceBundle;
 
 public class MainController implements Initializable {           
     

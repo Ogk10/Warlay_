@@ -1,11 +1,10 @@
 package com.mycompany.warlay.controller;
 
-import com.mycompany.warlay.model.FrameMods;
-import com.mycompany.warlay.model.Frames;
 import com.mycompany.warlay.model.FrameBuild;
 import com.mycompany.warlay.model.FrameBuilds;
+import com.mycompany.warlay.model.FrameMods;
+import com.mycompany.warlay.model.Frames;
 import javafx.scene.Cursor;
-
 import javafx.scene.Scene;
 import javafx.scene.layout.VBox;
 import javafx.scene.paint.Color;

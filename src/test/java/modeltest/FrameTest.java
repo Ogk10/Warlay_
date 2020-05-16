@@ -1,10 +1,10 @@
 package modeltest;
 
+import com.mycompany.warlay.model.Frame;
 import org.junit.Before;
 import org.junit.BeforeClass;
-import static org.junit.Assert.assertEquals;
 
-import com.mycompany.warlay.model.Frame;
+import static org.junit.Assert.assertEquals;
 
 public class FrameTest {
     

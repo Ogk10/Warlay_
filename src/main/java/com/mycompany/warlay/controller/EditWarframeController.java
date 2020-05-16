@@ -1,23 +1,22 @@
 package com.mycompany.warlay.controller;
 
-import java.net.URL;
-import javafx.fxml.FXML;
-import javafx.scene.Node;
-import java.util.ArrayList;
-import javafx.scene.text.Text;
-import java.util.ResourceBundle;
-import javafx.event.ActionEvent;
-import javafx.fxml.Initializable;
-import javafx.scene.control.ComboBox;
-
+import com.mycompany.warlay.model.FrameBuild;
+import com.mycompany.warlay.model.FrameBuilds;
 import com.mycompany.warlay.model.FrameMods;
 import com.mycompany.warlay.model.Frames;
-
-import com.mycompany.warlay.model.FrameBuilds;
-import com.mycompany.warlay.model.FrameBuild;
+import javafx.event.ActionEvent;
+import javafx.fxml.FXML;
+import javafx.fxml.Initializable;
+import javafx.scene.Node;
+import javafx.scene.control.ComboBox;
 import javafx.scene.control.TextField;
+import javafx.scene.text.Text;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import java.net.URL;
+import java.util.ArrayList;
+import java.util.ResourceBundle;
 
 
 public class EditWarframeController implements Initializable {
